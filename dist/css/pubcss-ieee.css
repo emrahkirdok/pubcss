@@ -39,7 +39,7 @@ a[href^="#"] {
       content: ''; }
 
 body {
-  column-count: 2;
+  column-count: 1;
   column-gap: balance;
   column-gap: 0.33in;
   font-family: "Times New Roman", Times, serif;
